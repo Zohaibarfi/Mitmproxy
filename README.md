@@ -20,6 +20,7 @@ Click “Show Advanced Options” and change the Proxy settings to manual. Then 
 Proxy Hostname to your IP Address, and the port to 8080.
 
 Now to install certificate :
+
 ➢ Go to Settings, Security and click “Install from device storage”
 ➢ Enter “mitmproxy-ca-cert” and click “OK”
 
