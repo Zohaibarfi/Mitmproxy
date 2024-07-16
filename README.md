@@ -22,6 +22,7 @@ Proxy Hostname to your IP Address, and the port to 8080.
 Now to install certificate :
 
 ➢ Go to Settings, Security and click “Install from device storage”
+
 ➢ Enter “mitmproxy-ca-cert” and click “OK”
 
 Mitmproxy is now setup in your android emulator device. Surf on various apps and see the
