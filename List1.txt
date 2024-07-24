@@ -1,0 +1,18 @@
+Domain: notifications-pa.googleapis.com, IP: 172.217.194.95, URL: https://notifications-pa.googleapis.com/v1/storetarget, Status: success, Reason: 
+Domain: accounts.google.com, IP: 74.125.130.84, URL: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, Status: success, Reason: 
+Domain: clients4.google.com, IP: 172.217.194.101, URL: https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=gZ8RuL6LtQ6cKwEoFIxrWQ%3D%3D, Status: success, Reason: 
+Domain: update.googleapis.com, IP: 172.253.118.94, URL: https://update.googleapis.com/service/update2/json?cup2key=10:3574596040&cup2hreq=620fbf3b4024604a91973589fdef2f6e055ef7a8c2a9ae7a1ca79b81f650d992, Status: success, Reason: 
+Domain: notifications-pa.googleapis.com, IP: 172.217.194.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: www.google.com, IP: 142.251.12.105, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: www.googleapis.com, IP: 64.233.170.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android.googleapis.com, IP: 74.125.24.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: playatoms-pa.googleapis.com, IP: 172.253.118.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: voilatile-pa.googleapis.com, IP: 142.251.10.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: play.googleapis.com, IP: 216.239.36.223, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: googleonebackup-pa.googleapis.com, IP: 142.251.175.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android-safebrowsing.google.com, IP: 172.217.194.136, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: voledevice-pa.googleapis.com, IP: 74.125.24.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: firebaseinstallations.googleapis.com, IP: 64.233.170.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: play-fe.googleapis.com, IP: 74.125.200.138, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: beacons.gvt2.com, IP: 172.217.31.163, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android.apis.google.com, IP: 142.251.10.100, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'

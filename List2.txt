@@ -1,0 +1,183 @@
+Domain: notifications-pa.googleapis.com, IP: 172.217.194.95, URL: https://notifications-pa.googleapis.com/v1/storetarget, Status: success, Reason: 
+Domain: accounts.google.com, IP: 74.125.130.84, URL: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, Status: success, Reason: 
+Domain: clients4.google.com, IP: 172.217.194.101, URL: https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=gZ8RuL6LtQ6cKwEoFIxrWQ%3D%3D, Status: success, Reason: 
+Domain: update.googleapis.com, IP: 172.253.118.94, URL: https://update.googleapis.com/service/update2/json?cup2key=10:3574596040&cup2hreq=620fbf3b4024604a91973589fdef2f6e055ef7a8c2a9ae7a1ca79b81f650d992, Status: success, Reason: 
+Domain: peoplestack-pa.googleapis.com, IP: 74.125.68.95, URL: https://peoplestack-pa.googleapis.com/peoplestack.PeopleStackAutocompleteService/Lookup, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/st/s?hl=en_US&c=0, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/i/bv?hl=en_US&c=1, Status: success, Reason: 
+Domain: peoplestack-pa.googleapis.com, IP: 74.125.68.95, URL: https://peoplestack-pa.googleapis.com/peoplestack.PeopleStackAutocompleteService/Autocomplete, Status: success, Reason: 
+Domain: notifications-pa.googleapis.com, IP: 74.125.130.95, URL: https://notifications-pa.googleapis.com/v1/storetarget, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/st/s?hl=en_US&c=3, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/i/bv?hl=en_US&c=2, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-viewer-integration-0.1.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-viewer-integration-gmail-0.1.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/ww.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-bind-0.1.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-form-0.1.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-list-0.1.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-mustache-0.2.js, Status: success, Reason: 
+Domain: cdn.ampproject.org, IP: 64.233.170.132, URL: https://cdn.ampproject.org/rtv/012405231944000/v0/amp-carousel-0.1.js, Status: success, Reason: 
+Domain: mail.google.com, IP: 74.125.68.83, URL: https://mail.google.com/mail/ads/main?rt=b&client=26, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/i/bv?hl=en_US&c=4, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/i/bv?hl=en_US&c=5, Status: success, Reason: 
+Domain: inbox.google.com, IP: 74.125.130.18, URL: https://inbox.google.com/sync/el2?hl=en_US&c=6, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_dfp/modules/sph_dfp_betterads/js/betterads_head.js, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/ajax-progress.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/align.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/autocomplete-loading.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/fieldgroup.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/container-inline.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/clearfix.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/details.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/hidden.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/permutive_script_sphl.js, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_dfp/modules/sph_dfp_betterads/js/betterads.js, Status: success, Reason: 
+Domain: clientservices.googleapis.com, IP: 64.233.170.94, URL: https://clientservices.googleapis.com/chrome-variations/seed?osname=android&channel=stable&milestone=91, Status: success, Reason: 
+Domain: 5f876161-9740-4cc8-9b64-4585990b2690.edge.permutive.app, IP: 104.18.41.170, URL: https://5f876161-9740-4cc8-9b64-4585990b2690.edge.permutive.app/5f876161-9740-4cc8-9b64-4585990b2690-web.js, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/item-list.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/js.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/nowrap.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/position-container.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/progress.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/reset-appearance.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/resize.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/sticky-header.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/system-status-counter.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/system-status-report-counters.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/system-status-report-general-info.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/tabledrag.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/tablesort.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/system/css/components/tree-child.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_dfp/modules/sph_dfp_betterads/css/sph-dfp-betterads.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_rewards/css/st_rewards.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_rewards/css/st_rewards_lb.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/views/css/views.module.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/layout_discovery/layouts/onecol/onecol.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_subscriber_login/css/sph-mysph.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/css/jquery.smartbanner.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/jquery/jquery.min.js?v=3.6.3, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/polyfills/element.matches.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/contrib/bootstrap_barrio/css/components/node.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/polyfills/object.assign.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/once/once.min.js?v=1.0.1, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/drupalSettingsLoader.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/drupal.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/drupal.init.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_liveramp/js/sph_liveramp.js?v=3.0.2, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/jquery.once.bc.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.1, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/jquery.cookie.shim.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_subscriber_login/js/sph-mysph.js?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/common/sph_dfp/modules/sph_dfp_betterads/js/betterads_head2.js, Status: success, Reason: 
+Domain: cdp.sph.com.sg, IP: 3.165.102.110, URL: https://cdp.sph.com.sg/activation/activation.js, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/css/style.css?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/polyfills/nodelist.foreach.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/css-escape/css.escape.js?v=1.5.1, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/es6-promise/es6-promise.auto.min.js?v=4.2.8, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/popper.min.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/bootstrap.min.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/picturefill/picturefill.min.js?v=3.0.3, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.3, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/progress.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/misc/ajax.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/global.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/jquery.cycle.all.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/iframeResizer.min.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/sidebar-textbox.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/jquery.smartbanner.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/queryly-search.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_rewards/js/appear.js?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_rewards/js/reward_points.js?sejoad, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_subshare/js/subshare.js?v=1.x, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_layouts/js/article-carousel-ga-tracking.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_layouts/js/discover-ga-tracking.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/modules/custom/st_layouts/js/video-player.js?v=9.5.11, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/js/neuron_tagging.js?v=9.5.11, Status: success, Reason: 
+Domain: securepubads.g.doubleclick.net, IP: 172.217.194.155, URL: https://securepubads.g.doubleclick.net/tag/js/gpt.js, Status: success, Reason: 
+Domain: script.4dex.io, IP: 172.67.75.241, URL: https://script.4dex.io/localstore.js, Status: success, Reason: 
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/concurrencyCheck.html, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/recaptcha/api.js?render=6LdChQIoAAAAADXAalfxU8zaPs_ObUziMcna2rsY, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: unknown, URL: static1.straitstimes.com.sg:443, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/19/KELL417920copy.jpg?VersionId=empsftoPdpoO61bFtHskjwcsMQbau31L&h=911be397&itok=1Hkqmbyg, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/05/28/crl-socialshell.jpg?VersionId=Hfn8KNGsBokDXBwZQNOs9mtdTiPle3q8&itok=XUKaMI3n, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/10/image-128SHELL292028129.jpg?VersionId=Hah7esUG3xQElPgYTlFx5aB3G7MCJhF9&itok=8YasAnle, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/05/25/yaohui-yhmaternity-9651.jpg?VersionId=3VVov2UZoRFfuxRxcluR1XQULQu.3x.V&itok=O8WhbfR_, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/08/shell2028929.jpg?VersionId=VyFmsNVLftAn3OAjZrsZ_cYfyEz3K6xB&itok=78l3frYR, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/17/yq-tup6-13062024.jpg?VersionId=ycMH5MzlaQaFKu8sDDr0xQpXwZQBZKZ5&itok=lXvNnPAL, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/05/18/mekong-interactive-shell.jpg?VersionId=GWirVKB0ey19yx_.tUnaXAnQfCytKnV.&itok=mHBdTpuQ, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/05/29/stilight-shellimage.jpg?VersionId=rPVBijBBlfjYu.gdtjncq.LJ3mdW9Wh.&itok=dH7S5qYp, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/05/ayrace-shellimage.jpg?VersionId=PLAwkL4.QRdL7o3HaY_xy4DDjjo2Cslg&itok=pamcS1cB, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/05/31/shell.jpg?VersionId=J9vsS0MMmksFM7M9qPkPNG2GCZ0bSQfE&itok=RYaFZaPI, Status: success, Reason: 
+Domain: tlx.3lift.com, IP: 54.169.90.152, URL: https://tlx.3lift.com/header/auction?lib=prebid&v=7.36.0&referrer=https%3A%2F%2Fwww.straitstimes.com%2F&tmax=1250, Status: success, Reason: 
+Domain: a.teads.tv, IP: 23.36.253.98, URL: https://a.teads.tv/hb/bid-request, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/07/shipping-shell-240607.jpg?VersionId=gIN34ARklVlhpMI.8SWacfU9K3S4b7a5&itok=hGot8eL2, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/19/Copy20of203Cheong20Soo20PiengBusy20PlantersHighres.jpg?VersionId=J9_UFsRoD5yQLbb.wYjVQQbRqnA4LBEG&itok=bXGMQ8Wu, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/17/S13041710.jpg?VersionId=CO5IMOlUVJDR1ip3Zk.PEjmk3Xb9WVTr&h=7b511234&itok=_2Ou0tly, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/10/jnwalk-shellimage.jpg?VersionId=J974g5BOoY2PX9IFaCm65rMtWRUZ1ekn&itok=CM5qDwfL, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/12/stpixshare-shellimage2028129.jpg?VersionId=s0XC713XsNt9n5R5IspYG4QyYpi_I7iM&itok=8cV3j3jq, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/01/NSL7817.jpg?VersionId=fU2cMkyUYFDVceaeJmuKOhH8h1_Wrd6h&itok=xSv_Fzm7, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/16/HD0109CJHD202605230749230901SEP202023system.jpg?VersionId=Ubr4sR6Ml.SwUmZOdjoibhMGWNBuItfN&itok=F-m_Lp9T, Status: success, Reason: 
+Domain: static1.straitstimes.com.sg, IP: 151.101.130.244, URL: https://static1.straitstimes.com.sg/s3fs-public/styles/small30x26/public/articles/2024/06/16/2024060441209604snapseed.jpg?VersionId=lDBfAULZSVlKBUQdnmgC1u0YVtUkpLpw&itok=8QzoUKoI, Status: success, Reason: 
+Domain: stepaper.straitstimes.com, IP: 152.195.221.42, URL: https://stepaper.straitstimes.com/thumbnail.php, Status: success, Reason: 
+Domain: mp.4dex.io, IP: 104.18.34.178, URL: https://mp.4dex.io/prebid, Status: success, Reason: 
+Domain: static.mysph.sph.com.sg, IP: 13.33.183.82, URL: https://static.mysph.sph.com.sg/mysph/locales/en/translation.json, Status: success, Reason: 
+Domain: o4505130366140416.ingest.sentry.io, IP: 34.120.195.249, URL: https://o4505130366140416.ingest.sentry.io/api/4506779620671488/envelope/?sentry_key=f56a481f86a20b607efc6bc783a05663&sentry_version=7&sentry_client=sentry.javascript.react%2F7.105.0, Status: success, Reason: 
+Domain: fundingchoicesmessages.google.com, IP: 74.125.24.100, URL: https://fundingchoicesmessages.google.com/i/5908?ers=3, Status: success, Reason: 
+Domain: www.googletagmanager.com, IP: 142.251.175.97, URL: https://www.googletagmanager.com/gtm.js?id=GTM-MSJW4DM, Status: success, Reason: 
+Domain: players.brightcove.net, IP: 23.32.77.17, URL: https://players.brightcove.net/4800266888001/BJDwdqmse_default/index.min.js, Status: success, Reason: 
+Domain: accounts.google.com, IP: 74.125.24.84, URL: https://accounts.google.com/gsi/client, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/async/ddljson?async=ntp:1, Status: success, Reason: 
+Domain: www.gstatic.com, IP: 74.125.68.94, URL: https://www.gstatic.com/chrome/ntp/suggested_sites_SG_5.json, Status: success, Reason: 
+Domain: static.xx.fbcdn.net, IP: 157.240.13.19, URL: https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/gB76kJXPYJV.png, Status: success, Reason: 
+Domain: www.googletagmanager.com, IP: 142.251.175.97, URL: https://www.googletagmanager.com/gtm.js?id=GTM-5Q7WW3V, Status: success, Reason: 
+Domain: ib.adnxs.com, IP: 103.43.90.53, URL: https://ib.adnxs.com/ut/v3/prebid, Status: failure, Reason: stream reset by client (CANCEL)
+Domain: www.googletagmanager.com, IP: 142.251.175.97, URL: https://www.googletagmanager.com/gtm.js?id=GTM-W22QHZ9, Status: failure, Reason: stream reset by client (CANCEL)
+Domain: www.gstatic.com, IP: 74.125.68.94, URL: https://www.gstatic.com/recaptcha/releases/TqxSU0dsOd2Q9IbI7CpFnJLD/recaptcha__en.js, Status: failure, Reason: stream reset by client (CANCEL)
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/fonts/curator-regular/CuratorHeadSTRegular_gdi.ttf, Status: failure, Reason: stream reset by client (CANCEL)
+Domain: www.straitstimes.com, IP: 152.195.56.195, URL: https://www.straitstimes.com/themes/custom/straitstimes/fonts/selane-deck-20/SelaneWebSTTwenty.ttf, Status: failure, Reason: stream reset by client (CANCEL)
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/sorry/index?continue=https://www.google.com/async/ddljson%3Fasync%3Dntp:1&q=EgSckjmyGPXxyrMGIjBLeVeyWBcjo5xOjY2jhVi3CoXe31btUPo5JUg1bagedZDNCM_bgv1OpDH65A3tCWQyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/httpservice/retry/TrellisClankService/FeedQuery?reqpld=CAHCPpECCvABCAESDAgMEAAgACgCMAQ4HxgDIg8IWxAAGPgiIHIoAjAEOB8qBWVuLVVTMgsNAABgQBCgCxiIF9LNmIsKsgEarwE1MTQ9TkZTTXFFcGp0dVdKblRpSy1mNWNRV1ZLR1ZoNG9wOG0xU2V0ZjNfU2Y0OHB2U3dxNkQxWjlLS1QxSXczb2lKTklSNmZkbUlMYWMzSTVlUmFyRDRSRkR3N3dfdl90SWlqMFNLdW5hREF0VExOSlVkVUtLOFh6NndMN0VkazI3X0F3OWJWRllmZWw3THNZWDNBVWZLSzFDWFA4V0x4X09zMERRam93cjNHSGZZEgIIASABIBMgJSAmIBggBSAJIAogESAUIBsgHCAr&fmt=bin&hl=en-US&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/complete/search?client=chrome&gs_ri=chrome-mobile-ext-ansg&xssi=t&q=&oit=0&oft=1&pgcl=1&gs_rn=42&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw, Status: success, Reason: 
+Domain: a.nel.cloudflare.com, IP: 35.190.80.1, URL: https://a.nel.cloudflare.com/report/v4?s=A6lqp%2BrRa5zwI2CPgbxZPmUHtnjvjS4RlHAONuWwoUVhTaam5GytUG6hptl16ZBJVavvLsHowQoBO9m9L4iUjGzbX2OUADPz4CuuTaIy18oZzX198d8Fw3ESBL%2BxdNoI, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/sorry/index?continue=https://www.google.com/complete/search%3Fclient%3Dchrome%26gs_ri%3Dchrome-mobile-ext-ansg%26xssi%3Dt%26q%3D%26oit%3D0%26oft%3D1%26pgcl%3D1%26gs_rn%3D42%26sugkey%3DAIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&q=EgSckjmyGPXxyrMGIjA1Nr8v5wshY7hAxuMU1Jw1cr0hWbDdXdo6gg8wsoZgQtua1PxuuDrhs6VIMw-PUSEyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM, Status: success, Reason: 
+Domain: en.m.wikipedia.org, IP: 103.102.166.224, URL: https://en.m.wikipedia.org/, Status: success, Reason: 
+Domain: en.m.wikipedia.org, IP: 103.102.166.224, URL: https://en.m.wikipedia.org/wiki/Main_Page, Status: success, Reason: 
+Domain: en.m.wikipedia.org, IP: 103.102.166.224, URL: https://en.m.wikipedia.org/w/load.php?lang=en&modules=ext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cmediawiki.hlist%7Cmobile.init.styles%7Cskins.minerva.amc.styles%7Cskins.minerva.base.styles%7Cskins.minerva.codex.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles%7Cskins.minerva.mainPage.styles&only=styles&skin=minerva, Status: success, Reason: 
+Domain: www.google.com, IP: 172.217.194.104, URL: https://www.google.com/sorry/index?continue=https://www.google.com/complete/search%3Fclient%3Dchrome%26gs_ri%3Dchrome-mobile-ext-ansg%26xssi%3Dt%26q%3D%26oit%3D0%26oft%3D1%26pgcl%3D1%26gs_rn%3D42%26sugkey%3DAIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&q=EgSckjmyGPbxyrMGIjBgnFS-xWDYO7ysinALKe_9zX_LJMt5pmZ8HxR-M8LUUYsIDUIg6vXTtFUzUwNpr5kyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM, Status: success, Reason: 
+Domain: en.m.wikipedia.org, IP: 103.102.166.224, URL: https://en.m.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=minerva, Status: success, Reason: 
+Domain: en.m.wikipedia.org, IP: 103.102.166.224, URL: https://en.m.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=minerva, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Santiago_Bernabeu_Stadium_-_U-g-g-B-o-y.jpg/324px-The_Santiago_Bernabeu_Stadium_-_U-g-g-B-o-y.jpg, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LouGehrig1934Goudeycard.jpg/252px-LouGehrig1934Goudeycard.jpg, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Amen_break_sample_image.png/326px-Amen_break_sample_image.png, Status: success, Reason: 
+Domain: content-autofill.googleapis.com, IP: 74.125.130.95, URL: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvOTEuMC40NDcyLjExNBIQCf3BolFeg1FrEgUNQtq69w==?alt=proto, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg/560px-Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png, Status: success, Reason: 
+Domain: upload.wikimedia.org, IP: 103.102.166.240, URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png, Status: success, Reason: 
+Domain: update.googleapis.com, IP: 74.125.24.94, URL: https://update.googleapis.com/service/update2, Status: success, Reason: 
+Domain: optimizationguide-pa.googleapis.com, IP: 74.125.24.95, URL: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw, Status: success, Reason: 
+Domain: notifications-pa.googleapis.com, IP: 172.217.194.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: www.google.com, IP: 142.251.12.105, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: www.googleapis.com, IP: 64.233.170.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android.googleapis.com, IP: 74.125.24.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: playatoms-pa.googleapis.com, IP: 172.253.118.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: voilatile-pa.googleapis.com, IP: 142.251.10.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: play.googleapis.com, IP: 216.239.36.223, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: googleonebackup-pa.googleapis.com, IP: 142.251.175.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android-safebrowsing.google.com, IP: 172.217.194.136, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: voledevice-pa.googleapis.com, IP: 74.125.24.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: firebaseinstallations.googleapis.com, IP: 64.233.170.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: play-fe.googleapis.com, IP: 74.125.200.138, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: beacons.gvt2.com, IP: 172.217.31.163, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: android.apis.google.com, IP: 142.251.10.100, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: i.ytimg.com, IP: 172.253.118.119, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: youtubei.googleapis.com, IP: 172.217.194.95, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: app-measurement.com, IP: 172.217.194.100, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: suggestqueries.google.com, IP: 74.125.200.102, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: redirector.googlevideo.com, IP: 74.125.200.113, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
+Domain: s.youtube.com, IP: 142.251.175.113, Status: failure, Reason: [('SSL routines', '', 'sslv3 alert certificate unknown'
