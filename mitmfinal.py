@@ -4,7 +4,7 @@ from mitmproxy import ctx
 class LogServerConnections:
     def __init__(self):
         self.connections = set()
-        self.output_file = "/Users/macos/zohaib/1.txt"  # Specify the output file path here
+        self.output_file = "/Users/macos/zohaib/Proxy flow.txt"  # Specify the output file path here
 
         # Open the file in write mode to clear previous contents
         with open(self.output_file, "w") as f:
