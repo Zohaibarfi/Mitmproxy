@@ -1,7 +1,7 @@
 import re
 
 # Task 1: Copy the content of 1.txt directly into list.txt
-with open("/Users/macos/zohaib/1.txt", "r") as f1:
+with open("/Users/macos/zohaib/Proxy flow.txt", "r") as f1:
     with open("/Users/macos/zohaib/List1.txt", "w") as f3:
         for line in f1:
             f3.write(line)
